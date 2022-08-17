@@ -15,8 +15,6 @@ import cmath
 import unittest
 from unittest import TestCase
 
-#from unittest import TestCase, TestSuite
-
 try:
     import numpy
     numpy_installed = True
