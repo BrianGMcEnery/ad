@@ -12,6 +12,7 @@ from ad import *
 from ad.admath import *
 import math
 import cmath
+import unittest
 from unittest import TestCase, TestSuite
 
 try:
