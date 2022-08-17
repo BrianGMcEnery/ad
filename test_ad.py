@@ -13,7 +13,9 @@ from ad.admath import *
 import math
 import cmath
 import unittest
-from unittest import TestCase, TestSuite
+from unittest import TestCase
+
+#from unittest import TestCase, TestSuite
 
 try:
     import numpy
